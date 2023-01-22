@@ -3,8 +3,10 @@ Lunar Reconnaisance Orbiter GNC analysis
 <img src="/images/Lunar_Reconnaissance_Orbiter_001.jpg" width="300">
 </p>
 <p align="center">
-    <em>LRO images [credit: LRO wikipedia](https://en.wikipedia.org/wiki/Lunar_Reconnaissance_Orbiter#/media/File:Lunar_Reconnaissance_Orbiter_001.jpg)</em>
+    <em>LRO image </em>
 </p>
+
+[Pic Credit: LRO wikipedia](https://en.wikipedia.org/wiki/Lunar_Reconnaissance_Orbiter#/media/File:Lunar_Reconnaissance_Orbiter_001.jpg)
 
 Attitude control analysis of the Lunar Reconnaissance Orbiter (LRO) mission can be performed for the provided mission data from LRO mission to see how the spacecraft is able to maintain its desired orientation in space.
 
