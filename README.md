@@ -1,4 +1,5 @@
-Lunar Reconnaisance Orbiter GNC analysis
+# Lunar Reconnaisance Orbiter GNC analysis
+
 <p align="center">
 <img src="/images/Lunar_Reconnaissance_Orbiter_001.jpg" width="300">
 </p>
